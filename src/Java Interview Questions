@@ -1,0 +1,25 @@
+
+
+1,    Comparator Vs Comparable
+
+
+Comparator calls the compare method ... Comparable calls the compareTo method
+
+Collections.sort(list).....        Collections.sort(list,implementing class;
+
+
+
+
+2.   Null key are treated seperated seperately in Java.Doesnt call the hashode ..
+     Every Object in java calls the hashode
+
+     Not in the case of Null key in java
+     No Multiple keys in java so only can have one Null key
+
+     Null key is stored in 0 bucket in HashMap implemetation..Meaning iundex 0   /...
+
+
+3.
+
+
+
