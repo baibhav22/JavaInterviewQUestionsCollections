@@ -19,7 +19,10 @@ Collections.sort(list).....        Collections.sort(list,implementing class;
      Null key is stored in 0 bucket in HashMap implemetation..Meaning iundex 0   /...
 
 
-3.
+3.  ArrayList vs LinkedList
+
+    Arraylist is slower if data is inserted in middle since all the memory locationd has to move ...
+    Linked list contains node thats why no need toi move all the Nodes...
 
 
 
